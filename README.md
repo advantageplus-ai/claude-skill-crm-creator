@@ -152,4 +152,4 @@ La skill adatta il CRM al tipo di business:
 
 ---
 
-Creata da [Advantage Plus](https://github.com/advantageplus-ai) — agenzia marketing italiana.
+Creata da [Advantage Plus](www.advantageplus.ai) — agenzia AI.
