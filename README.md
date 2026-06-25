@@ -19,7 +19,30 @@ Stack: **Next.js 16 + Prisma 7 + PostgreSQL + Tailwind CSS v4**, deploy su **Git
 | **Attività** | Task list con priorità, stato e scadenze |
 | **Impostazioni** | Configurazione azienda |
 
-Dati demo realistici (10 aziende, 20 contatti, 15 opportunità) inseriti automaticamente al primo deploy.
+Queste sono le sezioni **incluse di default** — ma il CRM è completamente personalizzabile.
+
+### Sezioni aggiuntive su richiesta
+
+Durante le domande iniziali puoi chiedere qualsiasi sezione extra:
+
+| Esempio | Cosa viene creato |
+|---|---|
+| Ordini | Tabella ordini, stati (Nuovo/In lavorazione/Spedito/Consegnato), collegamento clienti |
+| Prodotti & Catalogo | Schede prodotto, categorie, prezzi, disponibilità |
+| Preventivi & Fatture | Generazione PDF, stati pagamento, totali automatici |
+| Campagne Marketing | Stato campagne, budget, ROI, canali |
+| Ticket di supporto | Priorità, assegnatario, SLA |
+| Qualsiasi altra cosa | Descrivi cosa ti serve e viene costruita da zero |
+
+La skill adatta l'intero schema database, le pagine e le relazioni in base a quello che chiedi.
+
+### Dati demo vs dati reali
+
+| Modalità | Come funziona |
+|---|---|
+| **Dati demo** (default) | 10 aziende, 20 contatti, 15 opportunità inseriti automaticamente al primo deploy — utile per presentazioni e test |
+| **Dati reali** | Dì "non voglio dati demo" e il CRM parte vuoto, pronto per inserire i tuoi dati reali |
+| **Importazione** | Puoi chiedere di aggiungere un'interfaccia di import da CSV/Excel per caricare dati esistenti |
 
 ---
 
